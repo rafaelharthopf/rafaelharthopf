@@ -1,9 +1,13 @@
 - 👋  Olá, sou Rafael Harthopf Pereira
-- 👀  Estou interessado em uma nova carreira, de programador .
-- 🌱  Atualmente estou aprendendo, mas sempre procurando saber mais e mais.
+- 👀  Estou estudando para ser um programador fullstack.
+- 🌱  Atualmente estou estudando HTML, CSS, JavaScript.
+- 🌱  Framework e bibliotecas: ReactJS, VueJS, Bootstrap e NodeJS.
+- 🌱  Banco de Dados: MySQL e MongoDB
 
 
--- 📫 Como chegar até mim? Linkedin https://www.linkedin.com/in/rafael-harthopf-pereira-10436b1b4/  ou  https://www.facebook.com/rafael.harthopf/
+-- 📫 Como chegar até mim? Linkedin https://www.linkedin.com/in/rafael-harthopf-pereira-10436b1b4/  
+                                    https://www.facebook.com/rafael.harthopf/
+                                    rafaelharthopf@gmail.com
 
 
 
