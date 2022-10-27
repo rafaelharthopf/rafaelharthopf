@@ -1,7 +1,7 @@
 - 👋  Olá, sou Rafael Harthopf Pereira
 - 👀  Estou estudando para ser um programador Back-End.
-- 🌱  Framework e bibliotecas: Node.Js, React.Js, Vue.Js e Bootstrap.
-- 🌱  Atualmente estou estudando HTML, CSS, JavaScript.
+- 🌱  Linguagens de programação: JavaScript, Node.JS, Java EE
+- 🌱  Framework e bibliotecas: React.Js, Spring Boot, Angular, Vue.Js e Bootstrap.
 - 🌱  Banco de Dados: MySQL e MongoDB
 
 
