@@ -1,5 +1,5 @@
 - 👋  Olá, sou Rafael Harthopf Pereira
-- 👀  Programador FullStack, mas no momento estou s.
+- 👀  Programador FullStack, mas no momento estou programando no Back-End.
 - 🌱  Linguagens de programação: JavaScript, Node.JS, Java EE
 - 🌱  Framework e bibliotecas: React.Js, Spring Boot, Angular, Vue.Js e Bootstrap.
 - 🌱  Banco de Dados: MySQL e MongoDB
