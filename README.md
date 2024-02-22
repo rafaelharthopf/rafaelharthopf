@@ -7,7 +7,7 @@
 
 -- 📫 Como chegar até mim? Linkedin https://www.linkedin.com/in/rafael-harthopf-pereira-10436b1b4/  
                                     https://www.facebook.com/rafael.harthopf/
-                                    rafaelharthopf@gmail.com
+                                    harthopfpereirarafael@gmail.com
 
 
 
