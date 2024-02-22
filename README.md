@@ -5,9 +5,10 @@
 - 🌱  Banco de Dados: MySQL e MongoDB
 
 
--- 📫 Como chegar até mim? Linkedin https://www.linkedin.com/in/rafael-harthopf-pereira-10436b1b4/  
-                                    https://www.facebook.com/rafael.harthopf/
-                                    harthopfpereirarafael@gmail.com
+-- 📫 Como chegar até mim? 
+-Linkedin: https://www.linkedin.com/in/rafael-harthopf-pereira-10436b1b4/
+-email: harthopfpereirarafael@gmail.com
+                                    
 
 
 
