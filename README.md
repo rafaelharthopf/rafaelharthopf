@@ -6,10 +6,10 @@
 - 🌱  Banco de Dados: MySQL, MongoDB, PostgreSQL.
 - 🌱  Microsserviços e Containers: AWS e Docker
 
--- 📫 Como chegar até mim? 
--Telefone: +55 (18) 99794-1144
--Linkedin: https://www.linkedin.com/in/rafael-harthopf-pereira-10436b1b4/
--email: harthopfpereirarafael@gmail.com / harthopfpereira96@gmail.com
+-- 📫 Como chegar até mim?
+- Telefone: +55 (18) 99794-1144
+- Linkedin: https://www.linkedin.com/in/rafael-harthopf-pereira-10436b1b4/
+- email: harthopfpereirarafael@gmail.com / harthopfpereira96@gmail.com
                                     
 
 
