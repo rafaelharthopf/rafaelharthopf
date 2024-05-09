@@ -1,13 +1,14 @@
 - 👋  Olá, sou Rafael Harthopf Pereira
 - 👀  Programador FullStack, trabalho na empresa MIKROTIK RIO CORRESPONDENTE FINANCEIRO, TREINAMENTO E SISTEMAS.
-- 🌱  Linguagens de programação: PHP, JavaScript, Node.JS,
+- Meu foco principal é o backend, com integrações a apis e microsserviços.
+- 🌱  Linguagens de programação: PHP, JavaScript, Node.JS, TypeScript
 - 🌱  Framework e bibliotecas: Laravel, React.Js, Spring Boot, Angular, Vue.Js e Bootstrap.
-- 🌱  Banco de Dados: MySQL e MongoDB
-
+- 🌱  Banco de Dados: MySQL, MongoDB, PostgreSQL
 
 -- 📫 Como chegar até mim? 
+-Telefone: +55 (18) 99794-1144
 -Linkedin: https://www.linkedin.com/in/rafael-harthopf-pereira-10436b1b4/
--email: harthopfpereirarafael@gmail.com
+-email: harthopfpereirarafael@gmail.com / harthopfpereira96@gmail.com
                                     
 
 
